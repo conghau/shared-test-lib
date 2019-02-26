@@ -1,0 +1,10 @@
+export { default as BoldButton } from './Bold';
+export { default as ItalicButton } from './Italic';
+export { default as StrikeThroughButton } from './StrikeThrough';
+export { default as FontColorButton } from './FontColor';
+export { default as FontBackgroundColorButton } from './FontBackgroundColor';
+export { default as AlignLeftButton } from './AlignLeft';
+export { default as AlignCenterButton } from './AlignCenter';
+export { default as AlignRightButton } from './AlignRight';
+export { default as LinkButton } from './Link';
+export { default as CommentButton } from './Comment';
